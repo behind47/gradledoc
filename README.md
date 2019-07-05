@@ -10,7 +10,7 @@ Gradle 中文文档
 ---
 
 当前版本在线浏览地址:
-https://www.githang.com/gradledoc/userguide/userguide.html
+http://msdx.github.io/gradledoc/userguide/userguide.html
 
 目前所有已翻译的 Gradle 版本浏览地址：
 
@@ -21,8 +21,3 @@ https://www.githang.com/gradledoc/userguide/userguide.html
 
 QQ群号:109752483
 
----
-
-**打赏**
-
-<img src="https://img-blog.csdnimg.cn/20190125155133983.png" width = "200" height = "200"  /><img src="https://img-blog.csdnimg.cn/20190125155235492.png" width = "200" height = "200" />
